@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Career Copilot product flow</title>
+  <desc id="desc">Job descriptions, experience evidence and interview memory flow into structured records, AI reasoning, user review and reusable decisions.</desc>
+  <rect width="1200" height="520" rx="28" fill="#f4f6f2"/>
+  <text x="64" y="72" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700" fill="#17221d">CAREER COPILOT</text>
+  <text x="64" y="108" font-family="Inter,Arial,sans-serif" font-size="16" fill="#607068">From scattered information to controlled, reusable career decisions</text>
+  <g font-family="Inter,Arial,sans-serif">
+    <rect x="64" y="164" width="238" height="248" rx="20" fill="#ffffff" stroke="#d7ded9"/>
+    <text x="92" y="204" font-size="14" font-weight="700" fill="#728078">INPUTS</text>
+    <g font-size="17" fill="#233129">
+      <rect x="92" y="230" width="182" height="44" rx="10" fill="#eef3ef"/><text x="112" y="258">Job descriptions</text>
+      <rect x="92" y="290" width="182" height="44" rx="10" fill="#eef3ef"/><text x="112" y="318">Experience evidence</text>
+      <rect x="92" y="350" width="182" height="44" rx="10" fill="#eef3ef"/><text x="112" y="378">Interview memory</text>
+    </g>
+    <path d="M326 288h64" stroke="#75897f" stroke-width="2"/><path d="m380 280 12 8-12 8" fill="none" stroke="#75897f" stroke-width="2"/>
+    <rect x="416" y="164" width="368" height="248" rx="20" fill="#17221d"/>
+    <text x="446" y="204" font-size="14" font-weight="700" fill="#9bb5a7">STRUCTURED WORKSPACE</text>
+    <text x="446" y="252" font-size="26" font-weight="700" fill="#ffffff">Evidence-aware memory</text>
+    <text x="446" y="286" font-size="16" fill="#c6d2cb">Provenance · verification · context</text>
+    <rect x="446" y="322" width="308" height="58" rx="12" fill="#26352d" stroke="#3e5147"/>
+    <text x="468" y="348" font-size="14" font-weight="700" fill="#b6e4cd">CONTROLLED AI WRITE</text>
+    <text x="468" y="369" font-size="14" fill="#dbe5df">Preview diff → confirm → commit</text>
+    <path d="M808 288h64" stroke="#75897f" stroke-width="2"/><path d="m862 280 12 8-12 8" fill="none" stroke="#75897f" stroke-width="2"/>
+    <rect x="898" y="164" width="238" height="248" rx="20" fill="#ffffff" stroke="#d7ded9"/>
+    <text x="926" y="204" font-size="14" font-weight="700" fill="#728078">OUTCOMES</text>
+    <g font-size="17" fill="#233129">
+      <text x="926" y="250">Role-fit analysis</text><line x1="926" y1="267" x2="1108" y2="267" stroke="#e0e5e1"/>
+      <text x="926" y="306">Application priority</text><line x1="926" y1="323" x2="1108" y2="323" stroke="#e0e5e1"/>
+      <text x="926" y="362">Interview learning</text>
+    </g>
+  </g>
+</svg>
+
